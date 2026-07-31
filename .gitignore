@@ -1,0 +1,11 @@
+# coisas do Python que não devem ir para o repositório
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# coisas do macOS
+.DS_Store
+
+# configurações locais do editor
+.vscode/
